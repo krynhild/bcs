@@ -1,0 +1,597 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`applies bond profits for one bond type 1`] = `
+Array [
+  Object {
+    "date": "15 July, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 August, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 September, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 October, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 November, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 December, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 January, 2021",
+    "invested": 40000,
+    "returned": 2400,
+  },
+  Object {
+    "date": "15 February, 2021",
+    "invested": 40000,
+    "returned": 2400,
+  },
+  Object {
+    "date": "15 March, 2021",
+    "invested": 40000,
+    "returned": 2400,
+  },
+  Object {
+    "date": "15 April, 2021",
+    "invested": 40000,
+    "returned": 2400,
+  },
+  Object {
+    "date": "15 May, 2021",
+    "invested": 40000,
+    "returned": 2400,
+  },
+  Object {
+    "date": "15 June, 2021",
+    "invested": 40000,
+    "returned": 2400,
+  },
+  Object {
+    "date": "15 July, 2021",
+    "invested": 40000,
+    "returned": 4800,
+  },
+  Object {
+    "date": "15 August, 2021",
+    "invested": 40000,
+    "returned": 4800,
+  },
+  Object {
+    "date": "15 September, 2021",
+    "invested": 40000,
+    "returned": 4800,
+  },
+  Object {
+    "date": "15 October, 2021",
+    "invested": 40000,
+    "returned": 4800,
+  },
+  Object {
+    "date": "15 November, 2021",
+    "invested": 40000,
+    "returned": 4800,
+  },
+  Object {
+    "date": "15 December, 2021",
+    "invested": 40000,
+    "returned": 4800,
+  },
+  Object {
+    "date": "15 January, 2022",
+    "invested": 40000,
+    "returned": 7200,
+  },
+  Object {
+    "date": "15 February, 2022",
+    "invested": 40000,
+    "returned": 7200,
+  },
+  Object {
+    "date": "15 March, 2022",
+    "invested": 40000,
+    "returned": 7200,
+  },
+  Object {
+    "date": "15 April, 2022",
+    "invested": 40000,
+    "returned": 7200,
+  },
+  Object {
+    "date": "15 May, 2022",
+    "invested": 40000,
+    "returned": 7200,
+  },
+  Object {
+    "date": "15 June, 2022",
+    "invested": 40000,
+    "returned": 7200,
+  },
+  Object {
+    "date": "15 July, 2022",
+    "invested": 40000,
+    "returned": 9600,
+  },
+  Object {
+    "date": "15 August, 2022",
+    "invested": 40000,
+    "returned": 9600,
+  },
+  Object {
+    "date": "15 September, 2022",
+    "invested": 40000,
+    "returned": 9600,
+  },
+  Object {
+    "date": "15 October, 2022",
+    "invested": 40000,
+    "returned": 9600,
+  },
+  Object {
+    "date": "15 November, 2022",
+    "invested": 40000,
+    "returned": 9600,
+  },
+  Object {
+    "date": "15 December, 2022",
+    "invested": 40000,
+    "returned": 9600,
+  },
+  Object {
+    "date": "15 January, 2023",
+    "invested": 40000,
+    "returned": 12000,
+  },
+  Object {
+    "date": "15 February, 2023",
+    "invested": 40000,
+    "returned": 12000,
+  },
+  Object {
+    "date": "15 March, 2023",
+    "invested": 40000,
+    "returned": 12000,
+  },
+  Object {
+    "date": "15 April, 2023",
+    "invested": 40000,
+    "returned": 12000,
+  },
+  Object {
+    "date": "15 May, 2023",
+    "invested": 40000,
+    "returned": 12000,
+  },
+  Object {
+    "date": "15 June, 2023",
+    "invested": 40000,
+    "returned": 12000,
+  },
+]
+`;
+
+exports[`applies bond profits for one bond type with reinvest 1`] = `
+Array [
+  Object {
+    "date": "15 July, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 August, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 September, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 October, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 November, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 December, 2020",
+    "invested": 40000,
+    "returned": 0,
+  },
+  Object {
+    "date": "15 January, 2021",
+    "invested": 42000,
+    "returned": 400,
+  },
+  Object {
+    "date": "15 February, 2021",
+    "invested": 42000,
+    "returned": 400,
+  },
+  Object {
+    "date": "15 March, 2021",
+    "invested": 42000,
+    "returned": 400,
+  },
+  Object {
+    "date": "15 April, 2021",
+    "invested": 42000,
+    "returned": 400,
+  },
+  Object {
+    "date": "15 May, 2021",
+    "invested": 42000,
+    "returned": 400,
+  },
+  Object {
+    "date": "15 June, 2021",
+    "invested": 42000,
+    "returned": 400,
+  },
+  Object {
+    "date": "15 July, 2021",
+    "invested": 44000,
+    "returned": 920,
+  },
+  Object {
+    "date": "15 August, 2021",
+    "invested": 44000,
+    "returned": 920,
+  },
+  Object {
+    "date": "15 September, 2021",
+    "invested": 44000,
+    "returned": 920,
+  },
+  Object {
+    "date": "15 October, 2021",
+    "invested": 44000,
+    "returned": 920,
+  },
+  Object {
+    "date": "15 November, 2021",
+    "invested": 44000,
+    "returned": 920,
+  },
+  Object {
+    "date": "15 December, 2021",
+    "invested": 44000,
+    "returned": 920,
+  },
+  Object {
+    "date": "15 January, 2022",
+    "invested": 47000,
+    "returned": 560,
+  },
+  Object {
+    "date": "15 February, 2022",
+    "invested": 47000,
+    "returned": 560,
+  },
+  Object {
+    "date": "15 March, 2022",
+    "invested": 47000,
+    "returned": 560,
+  },
+  Object {
+    "date": "15 April, 2022",
+    "invested": 47000,
+    "returned": 560,
+  },
+  Object {
+    "date": "15 May, 2022",
+    "invested": 47000,
+    "returned": 560,
+  },
+  Object {
+    "date": "15 June, 2022",
+    "invested": 47000,
+    "returned": 560,
+  },
+  Object {
+    "date": "15 July, 2022",
+    "invested": 50000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 August, 2022",
+    "invested": 50000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 September, 2022",
+    "invested": 50000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 October, 2022",
+    "invested": 50000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 November, 2022",
+    "invested": 50000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 December, 2022",
+    "invested": 50000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 January, 2023",
+    "invested": 53000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 February, 2023",
+    "invested": 53000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 March, 2023",
+    "invested": 53000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 April, 2023",
+    "invested": 53000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 May, 2023",
+    "invested": 53000,
+    "returned": 380,
+  },
+  Object {
+    "date": "15 June, 2023",
+    "invested": 53000,
+    "returned": 380,
+  },
+]
+`;
+
+exports[`applies bond profits for two bond types 1`] = `
+Array [
+  Object {
+    "date": "2020-07-14T22:00:00.000Z",
+    "invested": 100000,
+    "returned": 0,
+  },
+  Object {
+    "date": "2020-08-14T22:00:00.000Z",
+    "invested": 100000,
+    "returned": 0,
+  },
+  Object {
+    "date": "2020-09-14T22:00:00.000Z",
+    "invested": 100000,
+    "returned": 0,
+  },
+  Object {
+    "date": "2020-10-14T22:00:00.000Z",
+    "invested": 100000,
+    "returned": 4200,
+  },
+  Object {
+    "date": "2020-11-14T23:00:00.000Z",
+    "invested": 100000,
+    "returned": 4200,
+  },
+  Object {
+    "date": "2020-12-14T23:00:00.000Z",
+    "invested": 100000,
+    "returned": 4200,
+  },
+  Object {
+    "date": "2021-01-14T23:00:00.000Z",
+    "invested": 100000,
+    "returned": 6600,
+  },
+  Object {
+    "date": "2021-02-14T23:00:00.000Z",
+    "invested": 100000,
+    "returned": 6600,
+  },
+  Object {
+    "date": "2021-03-14T23:00:00.000Z",
+    "invested": 100000,
+    "returned": 6600,
+  },
+  Object {
+    "date": "2021-04-14T22:00:00.000Z",
+    "invested": 100000,
+    "returned": 10800,
+  },
+  Object {
+    "date": "2021-05-14T22:00:00.000Z",
+    "invested": 100000,
+    "returned": 10800,
+  },
+  Object {
+    "date": "2021-06-14T22:00:00.000Z",
+    "invested": 100000,
+    "returned": 10800,
+  },
+  Object {
+    "date": "2021-07-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 73200,
+  },
+  Object {
+    "date": "2021-08-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 73200,
+  },
+  Object {
+    "date": "2021-09-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 73200,
+  },
+  Object {
+    "date": "2021-10-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 73200,
+  },
+  Object {
+    "date": "2021-11-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 73200,
+  },
+  Object {
+    "date": "2021-12-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 73200,
+  },
+  Object {
+    "date": "2022-01-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 75600,
+  },
+  Object {
+    "date": "2022-02-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 75600,
+  },
+  Object {
+    "date": "2022-03-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 75600,
+  },
+  Object {
+    "date": "2022-04-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 75600,
+  },
+  Object {
+    "date": "2022-05-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 75600,
+  },
+  Object {
+    "date": "2022-06-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 75600,
+  },
+  Object {
+    "date": "2022-07-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 78000,
+  },
+  Object {
+    "date": "2022-08-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 78000,
+  },
+  Object {
+    "date": "2022-09-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 78000,
+  },
+  Object {
+    "date": "2022-10-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 78000,
+  },
+  Object {
+    "date": "2022-11-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 78000,
+  },
+  Object {
+    "date": "2022-12-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 78000,
+  },
+  Object {
+    "date": "2023-01-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 80400,
+  },
+  Object {
+    "date": "2023-02-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 80400,
+  },
+  Object {
+    "date": "2023-03-14T23:00:00.000Z",
+    "invested": 40000,
+    "returned": 80400,
+  },
+  Object {
+    "date": "2023-04-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 80400,
+  },
+  Object {
+    "date": "2023-05-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 80400,
+  },
+  Object {
+    "date": "2023-06-14T22:00:00.000Z",
+    "invested": 40000,
+    "returned": 80400,
+  },
+]
+`;
+
+exports[`correctly calculates chart slices 1`] = `
+Array [
+  "15 July, 2020",
+  "15 August, 2020",
+  "15 September, 2020",
+  "15 October, 2020",
+  "15 November, 2020",
+  "15 December, 2020",
+  "15 January, 2021",
+  "15 February, 2021",
+  "15 March, 2021",
+  "15 April, 2021",
+  "15 May, 2021",
+  "15 June, 2021",
+  "15 July, 2021",
+  "15 August, 2021",
+  "15 September, 2021",
+  "15 October, 2021",
+  "15 November, 2021",
+  "15 December, 2021",
+  "15 January, 2022",
+  "15 February, 2022",
+  "15 March, 2022",
+  "15 April, 2022",
+  "15 May, 2022",
+  "15 June, 2022",
+  "15 July, 2022",
+  "15 August, 2022",
+  "15 September, 2022",
+  "15 October, 2022",
+  "15 November, 2022",
+  "15 December, 2022",
+  "15 January, 2023",
+  "15 February, 2023",
+  "15 March, 2023",
+  "15 April, 2023",
+  "15 May, 2023",
+  "15 June, 2023",
+]
+`;
